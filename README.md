@@ -1,7 +1,7 @@
 # 🍽 Qasr Elsham – Real Client Digital Marketing Case Study
 
 <p align="center">
-  <img src="" width="100%" alt="Qasr Elsham Restaurant"/>
+  <img src="image.jpeg" width="100%" alt="Qasr Elsham Restaurant"/>
 </p>
 
 ## 📌 Project Overview
