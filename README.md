@@ -1,14 +1,7 @@
 # 🍽 Qasr Elsham – Real Client Digital Marketing Case Study
 
 <p align="center">
-  <img src="qasr-motion.gif" width="100%" alt="Qasr Elsham Motion Banner"/>
-</p>
-
-<p align="center">
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="restaurant-video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="image.jpeg" width="100%" alt="Qasr Elsham Restaurant"/>
 </p>
 
 ## 📌 Project Overview
