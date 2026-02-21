@@ -1,11 +1,11 @@
-# 🍽 Qasr Elsham – Real Client Digital Marketing Case Study
+# 🍽 Digital Marketing For Qasr- ELsham
 
 <p align="center">
-  <img src="image.jpeg" width="100%" alt="Qasr Elsham Restaurant"/>
+  <img src="Image.jpeg" width="100%" alt="Qasr Elsham Restaurant"/>
 </p>
 
 ## 📌 Project Overview
-**Qasr Elsham – قصر الشام** is an established Middle Eastern restaurant offering authentic Levant cuisine.  
+**Qasr Elsham** is an established Middle Eastern restaurant offering authentic Levant cuisine.  
 This project documents the full digital marketing strategy and execution aimed at strengthening the restaurant’s online presence, increasing engagement, and driving measurable growth in orders and reservations.
 
 ## 🧠 Case Study Structure
@@ -49,12 +49,12 @@ We built a **content-driven marketing strategy** focusing on:
 ### 👥 Team Members
 | Name    | Role |
 |---------|------|
-| Moamen  | 🎥 Videographer |
-| Yassmen | ✍ Content Writer |
-| Qassem  | 🎬🎨 Video Editor & Graphic Designer |
-| Soha    | 👥 Community Manager |
-| Nour    | ✍👥 Copywriter & Community Manager |
-| Nouran  | 📊 Content Analyst |
+| Tasneem Ahmed | 🎥 Videographer |
+| Mai Harby | ✍ Content Writer |
+| Aly Sallam  | 🎬🎨 Video Editor & Graphic Designer |
+| Muhammad Hisham | 👥 Community Manager |
+| Amira Hassan | ✍👥 Copywriter & Community Manager |
+| Omar Khaled  | 📊 Content Analyst |
 
 ### 🎯 Project Objectives
 - Increase Facebook & Instagram followers  
@@ -91,7 +91,9 @@ We built a **content-driven marketing strategy** focusing on:
 - +XX% Engagement Increase  
 - +XX% Follower Growth  
 - +XX% Reservation Increase  
-- +XX% ROI Improvement  
+- +XX% ROI Improvement
 
-## 💎 Portfolio Value
-This repository represents a **real-world marketing execution project** focused on measurable business growth, creative branding, and performance-driven strategy.
+  ### Prsentation on Canva: 
+
+  
+
