@@ -1,46 +1,104 @@
-Global Cement Products (GCP) – Digital Marketing Project
-👥 Team Members
+# 🍽 Qasr Elsham – Real Client Digital Marketing Case Study
 
-Moamen – Videographer 🎥
-Yassmen – Content Writer ✍
-Qassem – Video Editor & Graphic Designer 🎬🎨
-Soha – Community Manager 👥
-Nour – Copywriter & Community Manager ✍👥
-Nouran – Content Analyst 📊
+<p align="center">
+  <img src="qasr-motion.gif" width="100%" alt="Qasr Elsham Motion Banner"/>
+</p>
 
-📌 Project Overview
+<p align="center">
+  <video width="100%" autoplay loop muted playsinline>
+    <source src="restaurant-video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
-Global Cement Products (GCP) specializes in manufacturing and supplying cement-based products such as interlock pavers, cement bricks, curbstones, tiles, and road barriers.
+## 📌 Project Overview
+**Qasr Elsham – قصر الشام** is an established Middle Eastern restaurant offering authentic Levant cuisine.  
+This project documents the full digital marketing strategy and execution aimed at strengthening the restaurant’s online presence, increasing engagement, and driving measurable growth in orders and reservations.
 
-The project aims to provide integrated urban solutions distinguished by high quality, durability, and competitive pricing, in line with Egypt’s urban renaissance.
+## 🧠 Case Study Structure
 
-🎯 Project Objectives
+### 1️⃣ The Problem
+- Limited digital visibility  
+- Low engagement rate  
+- Inconsistent content strategy  
+- Weak conversion from followers to customers  
 
-Increase Facebook followers from 779 to 5,000+ by November 2025.
+### 2️⃣ Strategy
+We built a **content-driven marketing strategy** focusing on:  
+- High-quality food photography  
+- Short-form video content (Reels)  
+- Paid advertising campaigns  
+- Community engagement  
+- Seasonal promotional offers  
 
-Launch a website and blog with at least 5 educational articles.
+### 3️⃣ Execution
+**📸 Content Production**  
+- Professional food photography  
+- Behind-the-scenes kitchen shots  
+- Before/After meal visuals  
+- Customer experience highlights  
 
-Strengthen digital presence across Instagram, LinkedIn, and TikTok.
+**🎬 Video Marketing**  
+- 2–3 Reels per week  
+- Offer-based short videos  
+- Story-based engagement posts  
 
-Showcase real product photos, factory visuals, and installation videos.
+**📢 Paid Ads**  
+- Engagement Campaigns  
+- Conversion Campaigns  
+- Geo-targeted local audience ads  
 
-Generate new leads (B2B & B2C) and grow supply contracts.
+**💬 Community Management**  
+- Fast response time  
+- Comment engagement  
+- Polls & interactive stories  
 
-📂 Project Scope
-In Scope:
+### 👥 Team Members
+| Name    | Role |
+|---------|------|
+| Moamen  | 🎥 Videographer |
+| Yassmen | ✍ Content Writer |
+| Qassem  | 🎬🎨 Video Editor & Graphic Designer |
+| Soha    | 👥 Community Manager |
+| Nour    | ✍👥 Copywriter & Community Manager |
+| Nouran  | 📊 Content Analyst |
 
-Digital content production (photos, videos, reels, before/after).
+### 🎯 Project Objectives
+- Increase Facebook & Instagram followers  
+- Improve engagement rate  
+- Increase reservations & online orders  
+- Strengthen brand identity  
+- Position Qasr Elsham as a premium local restaurant  
 
-Social media management & campaigns.
+### 📊 KPIs & Metrics
+- Follower Growth  
+- Engagement Rate  
+- Reach & Impressions  
+- Cost per Result  
+- Reservation / Order Increase  
 
-Website & blog development.
+### 🗓 Project Timeline (5 Weeks)
+| Week | Milestone |
+|------|----------|
+| 1 | Strategy + Content Plan |
+| 2 | 5 Posts + 2 Reels Published |
+| 3 | Engagement Campaign |
+| 4 | Conversion Ad Campaign |
+| 5 | Performance Analysis + Report |
 
-Highlighting quality certifications and case studies.
+### 🛠 Tools Used
+- Canva  
+- Meta Ads Manager  
+- CapCut / Premiere Pro  
+- Google Analytics  
+- Instagram Insights  
 
-🗓 Project Plan — 5 Weeks
-Week	Milestone
-1	Collect assets (photos, logo, certificates) + finalize content plan.
-2	Launch website prototype + publish 2 blog articles.
-3	Produce and post 6 visuals + 2 reels on Facebook/Instagram.
-4	Run a Facebook B2B ad campaign + publish 1 case study.
-5	Monitor performance, analyze results, and prepare monthly report.
+### 📈 Results
+*(Replace with real numbers)*  
+- +XX% Engagement Increase  
+- +XX% Follower Growth  
+- +XX% Reservation Increase  
+- +XX% ROI Improvement  
+
+## 💎 Portfolio Value
+This repository represents a **real-world marketing execution project** focused on measurable business growth, creative branding, and performance-driven strategy.
