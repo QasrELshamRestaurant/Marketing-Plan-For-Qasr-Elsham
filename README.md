@@ -1,12 +1,11 @@
-# 🍽 Digital Marketing For Qasr- ELsham
+# 🍽 Digital Marketing For Cyreena
 
 <p align="center">
   <img src="Image.jpeg" width="100%" alt="Qasr Elsham Restaurant"/>
 </p>
 
 ## 📌 Project Overview
-**Qasr Elsham** is an established Middle Eastern restaurant offering authentic Levant cuisine.  
-This project documents the full digital marketing strategy and execution aimed at strengthening the restaurant’s online presence, increasing engagement, and driving measurable growth in orders and reservations.
+**Cyreena**is an Affordable Luxury fashion brand specializing in high-end, contemporary Modest Fashion.
 
 ## 🧠 Case Study Structure
 
@@ -18,11 +17,7 @@ This project documents the full digital marketing strategy and execution aimed a
 
 ### 2️⃣ Strategy
 We built a **content-driven marketing strategy** focusing on:  
-- High-quality food photography  
-- Short-form video content (Reels)  
-- Paid advertising campaigns  
-- Community engagement  
-- Seasonal promotional offers  
+ Operates on a "Limited Edition" drop model via D2C social media channels (Facebook/Instagram).
 
 ### 3️⃣ Execution
 **📸 Content Production**  
@@ -85,15 +80,5 @@ We built a **content-driven marketing strategy** focusing on:
 - CapCut / Premiere Pro  
 - Google Analytics  
 - Instagram Insights  
-
-### 📈 Results
-*(Replace with real numbers)*  
-- +XX% Engagement Increase  
-- +XX% Follower Growth  
-- +XX% Reservation Increase  
-- +XX% ROI Improvement
-
-  ### Prsentation on Canva: 
-
   
 
