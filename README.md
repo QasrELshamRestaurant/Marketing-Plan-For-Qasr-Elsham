@@ -1,7 +1,7 @@
 # 🍽 Digital Marketing For Cyreena
 
 <p align="center">
-  <img src="image.jpeg" width="100%" alt="Qasr Elsham Restaurant"/>
+  <img src="image.jpg" width="100%" alt="Qasr Elsham Restaurant"/>
 </p>
 
 ## 📌 Project Overview
