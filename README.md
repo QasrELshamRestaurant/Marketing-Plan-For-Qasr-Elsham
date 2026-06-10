@@ -79,6 +79,8 @@ We built a **content-driven marketing strategy** focusing on:
 - Meta Ads Manager  
 - CapCut / Premiere Pro  
 - Google Analytics  
-- Instagram Insights  
+- Instagram Insights
+### Project Link 
+https://drive.google.com/drive/folders/1icy4Su-McZTRGYqfY_170Ai-m0F5Q9pL?usp=sharing
   
 
